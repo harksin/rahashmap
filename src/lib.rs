@@ -4,6 +4,7 @@
 #![feature(ptr_internals)]
 #![feature(test)]
 #![feature(try_reserve)]
+#![feature(alloc_layout_extra)]
 
 extern crate rand;
 
